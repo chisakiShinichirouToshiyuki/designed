@@ -59,8 +59,7 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 ```
 # 使用方法（VSCode）
 実行環境(OS/pythonバージョン)に合わせて、下記ディレクトリのnotebookファイルを実行。  
-モジュールの詳しい使い方は、APIドキュメントを参照
-
+モジュールの詳しい使い方は、APIドキュメントを参照  
 ./dist/_OS_/_pythonバージョン_/_言語_/template.ipynb
 # 使用方法（Colab）
 [コードサンプル](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb) (実行にはGoogle Accountが必要)にアクセス  
