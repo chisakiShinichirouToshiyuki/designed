@@ -3,11 +3,35 @@
 <br>
   
 # デモ
+<br>
+ 
+# designEDでなにができるの？
+
+## 面倒な計算を、微分でも積分でも自動でやってくれる
+## 数や型の種類に紐づいて、公式がきれいに整理されている
+## 数や型の種類が誤っている場合、編集中にアラートを出してくれる
+## 有名問題の解法のフレームも、１クリックで出せちゃう
+## プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明
+## 間違えたら１クリックでchatGPTが解説
+## 間違えたら証明と、正しい証明の差分を、chatGPTがフローチャートでわかりやすく見える化
+
+
+
+<br>
+<br>
+ 
+# すぐに試せるPlayGround
 [使用例](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb) (実行にはGoogle Accountが必要)  
 （Colabの基本的な使い方は、[こちら](https://blog.kikagaku.co.jp/google-colab-howto#2))
 ![Recording of Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
 <br>
 
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=iIK6lF_OCBI)
+
+
+<br>
+<br>
+ 
 # 機能(随時追加中)
 - 数式処理機能
   - オブジェクト指向設計による公式・定理の整理
@@ -26,6 +50,7 @@
   - AIによる証明提案（by github copilot）
   
   
+<br>
 <br>
 
 # designEDを動かすための前提要件  
@@ -54,19 +79,23 @@
 
 # モジュールインストール方法  
 ## VSCodeの場合
+<br>
+ 
+# インストール方法（VSCode）  
   
 ### gitをインストールしている場合
  
-```bash
+``` bash
 git clone https://github.com/chisakiShinichirouToshiyuki/designed.git
 cd designed
 pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.2 japanize_matplotlib==1.1.3 colorama==0.4.6
 ```
 <br>
+<br>  
 
 ### gitをインストールしていない場合
 [github](https://github.com/chisakiShinichirouToshiyuki/designed)にアクセスし、<span style="color:white;background-color:green;border-radius:4px;">&nbsp;<> Code ▼&nbsp;</span> => <span style="color:white;background-color:grey;border-radius:4px;">&nbsp;Download Zip&nbsp;</span>より、ダウンロードする。
-```bash
+``` bash
  # ダウンロードしたフォルダ化に移動して
 pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.2 japanize_matplotlib==1.1.3 colorama==0.4.6
 ```
@@ -78,14 +107,21 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 
 # 使用方法  
 ## VSCodeの場合
+<br>
+
+# 使用方法（VSCode）
 実行環境(OS/pythonバージョン)に合わせて、下記ディレクトリのnotebookファイルを実行。  
 モジュールの詳しい使い方は、APIドキュメントを参照  
 ./dist/_OS_/_pythonバージョン_/_言語_/template.ipynb
 <br>
+<br>
 
-## Colabの場合
-[コードサンプル](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb) (実行にはGoogle Accountが必要)にアクセス  
+# 使用方法（Colab）
+[コードサンプル](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb) にアクセス(実行にはGoogle Accountが必要)  
 （Colabの基本的な使い方は、[こちら](https://blog.kikagaku.co.jp/google-colab-howto#2))
+<br>
+
+<br>
 <br>
 
 # 外部リンク  
@@ -96,6 +132,8 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 |[デモ](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb)|面倒な環境構築不要のデモリンク先|  
 |[VSCode](https://code.visualstudio.com/download)|VSCodeのダウンロード元|  
 <br>
+<br>
+
 
 
 # 注意点
@@ -104,6 +142,8 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 - python3.11+未対応
 <br>
 
+<br>
+ 
 # 作者
  
  
@@ -111,6 +151,9 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 * mail: designed.academy@gmail.com
 <br>
 
+<br>
+
+ 
 # ライセンス
 著作権所有者： [知崎心一郎敏幸](https://github.com/chisakiShinichirouToshiyuki)
 
