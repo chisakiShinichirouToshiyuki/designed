@@ -1495,29 +1495,7 @@ class 方程式_2dクラス(方程式クラス):
 
 
 
-    @property
-    def a(self) -> 式クラス:
-        ...
 
-    @property
-    def b(self) -> 式クラス:
-        ...
-
-    @property
-    def c(self) -> 式クラス:
-        ...
-
-    @property
-    def a(self) -> 式クラス:
-        ...
-
-    @property
-    def b(self) -> 式クラス:
-        ...
-
-    @property
-    def c(self) -> 式クラス:
-        ...
 
 
 
