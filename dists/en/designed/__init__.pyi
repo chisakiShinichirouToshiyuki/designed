@@ -379,12 +379,16 @@ class Ast:
         """
         ...
 
-    def assert_function(self, test: bool = False) -> Ast:
+    def assert_function(
+        self,
+        assert_function: list[symbol_type],
+        should_regressive_search: bool = False,
+    ) -> Ast:
         """
         数式に対して機能を適用します。
 
         Args:
-            assert_function (list[symbol_type]): 断定する関数のリスト。
+            assert_function (list[DefineType.symbol_type]): 断定する関数のリスト。
 
             should_regressive_search (bool, optional): 逆順で検索するかどうか。デフォルトは False。
 
@@ -2129,7 +2133,7 @@ class Formula:
         ...
 
     def rough_check_monotonically_increase(
-        self, points: Optional[list[int]], is_in_Natural: bool = True
+        self, points: Optional[list[int]] = None, is_in_Natural: bool = True
     ) -> bool | None:
         ...
 
@@ -3587,7 +3591,12 @@ class Integer:
         ...
 
     def get_powered_residual(
-        self, power: int, mod: int, _range: tuple[int, int] = (1, 5)
+        self,
+        power: int,
+        mod: int,
+        _range: tuple[int, int] = (1, 5),
+        section_title: str = "乗数の剰余",
+        section_id: str = "get_powered_residual",
     ) -> Formula:
         ...
 
@@ -3893,6 +3902,8 @@ class IntegerUtils:
         power: int,
         mod: int,
         _range: tuple[int, int] = (1, 5),
+        section_title: str = "乗数の剰余",
+        section_id: str = "get_powered_residual",
     ) -> Formula:
         ...
 
