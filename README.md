@@ -153,6 +153,8 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 
 <br>
 
+
+
  
 # ライセンス
 著作権所有者： [知崎心一郎敏幸](https://github.com/chisakiShinichirouToshiyuki)
