@@ -154,10 +154,6 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 <br>
 
 
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/b6ae9952-1a13-46ff-94b1-0ad46ba80683
-
-
-
 
  
 # ライセンス
