@@ -23,7 +23,6 @@
 # すぐに試せるPlayGround
 [使用例](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb) (実行にはGoogle Accountが必要)  
 （Colabの基本的な使い方は、[こちら](https://blog.kikagaku.co.jp/google-colab-howto#2))
-![Recording of Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
 <br>
 
 [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=iIK6lF_OCBI)
