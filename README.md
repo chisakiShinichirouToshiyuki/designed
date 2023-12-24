@@ -7,13 +7,13 @@
  
 # designEDでなにができるの？
 
-## 面倒な計算を、微分でも積分でも自動でやってくれる
-## 数や型の種類に紐づいて、公式がきれいに整理されている
-## 数や型の種類が誤っている場合、編集中にアラートを出してくれる
-## 有名問題の解法のフレームも、１クリックで出せちゃう
-## プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明
-## 間違えたら１クリックでchatGPTが解説
-## 間違えたら証明と、正しい証明の差分を、chatGPTがフローチャートでわかりやすく見える化
+- 面倒な計算を、微分でも積分でも自動でやってくれる
+- 数や型の種類に紐づいて、公式がきれいに整理されている
+- 数や型の種類が誤っている場合、編集中にアラートを出してくれる
+- 有名問題の解法のフレームも、１クリックで出せちゃう
+- プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明
+- 間違えたら１クリックでchatGPTが解説
+- 間違えたら証明と、正しい証明の差分を、chatGPTがフローチャートでわかりやすく見える化
 
 
 
@@ -23,7 +23,6 @@
 # すぐに試せるPlayGround
 [使用例](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/dist/colab/jp/template.ipynb) (実行にはGoogle Accountが必要)  
 （Colabの基本的な使い方は、[こちら](https://blog.kikagaku.co.jp/google-colab-howto#2))
-![Recording of Git Graph](https://github.com/mhutchie/vscode-git-graph/raw/master/resources/demo.gif)
 <br>
 
 [![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=iIK6lF_OCBI)
@@ -152,32 +151,6 @@ pip install sympy==1.11.1 jedi>=0.16 setuptools>65.5.1 spb==0.1.1 seaborn==0.12.
 <br>
 
 <br>
-
-
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/329eb808-af06-4237-b408-ab9e412b0c36
-
-
-
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/942bafb9-b39a-448d-a8a0-333ce840b285
-
-
-
-
-
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/ce12a6ba-728c-4a30-ad50-93f5195a98fd
-
-
-
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/7a7a5568-f23c-4625-bd28-d82f2b17b3d5
-
-
-
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/93f42d84-bc37-41f8-b1c0-7f8802b4fedf
-
-
-
-
-https://github.com/chisakiShinichirouToshiyuki/designed/assets/74919309/8528ad17-2b70-41e2-b0a7-1d0b32676b93
 
 
 
