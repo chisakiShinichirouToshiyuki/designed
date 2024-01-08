@@ -35,13 +35,13 @@
 
 ## designEDってなに？  
 designEDは、デザインされた(designed)教育(ED)で、学びをアップデートするアプリです。  
-より具体的には、プログラマーの秘密道具を使って、楽して大学に合格しちゃうアプリです。  
+より具体的には、<span style="color:#f99;font-weight:bold;">プログラマーの秘密道具を使って、楽して大学に合格しちゃうアプリ</span>です。  
 このアプリは、2023/12/06現在、大学受験-数学-整数論の参考書に相当する機能を提供します。
 <br>
 
 ## 誰のためのアプリ？
 ### あなたのためのアプリです😄！
-- 「有能な怠け者」のあなた
+- 「<span style="color:#f99;font-weight:bold;">有能な怠け者</span>」のあなた
 - 「プログラミングスキルはあるけど、苦労して受験勉強したくない高校生」のあなた
 - 「理解力が高い中学生」のあなた
 - 「特殊な技能をつけて、高単価なバイトをしたい大学生」のあなた
@@ -52,20 +52,20 @@ designEDは、デザインされた(designed)教育(ED)で、学びをアップ�
 ## 何の役に立つの？
 |できます|できません / 興味がありません|
 |:---|:---|
-|難関大学に合格するスキルがつきます。|大学以上の高度な数学能力は対象外です。<br>数学的思考力を向上させるを目的としません。|
-|プログラミング初心者レベルのスキルがつきます。<br>pythonモジュール利用のスキルがつきます。|関数型言語は扱いません。<br>依存型は扱いません。|
+|<span style="color:#f99;font-weight:bold;">難関大学に合格するスキル</span>がつきます。|大学以上の高度な数学能力は対象外です。<br>数学的思考力を向上させるを目的としません。|
+|<span style="color:#f99;font-weight:bold;">プログラミングのスキル</span>がつきます。<br>pythonモジュール利用のスキルがつきます。|関数型言語は扱いません。<br>依存型は扱いません。|
 |受験勉強の工数を削減し、余暇を提供します。||
 |プログラマーの秘密道具をたくさん知れます。||
 <br>
 
 
 ## どうやって実現するの？
-- 受験問題を、日本語プログラミングで解きます！(面倒な微分・積分計算も自動でやってくれます)  
+- <span style="color:#f99;font-weight:bold;">受験問題を、日本語プログラミングで解きます</span>！(面倒な微分・積分計算も自動でやってくれます)  
   <img src="https://www.designed.academy/tutorial/proof.gif" alt="Demo : Proof by python" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
 - プログラミングの便利ツールで、証明作成をサポートします。  
   - よく使う定理や有名問題に名前をつけて、簡単呼び出し（ユーザスニペット）  
     <img src="https://www.designed.academy/tutorial/user_snippet.gif" alt="Demo : User Snippet" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
-  - 数や型の種類に紐づいて、公式がきれいに整理（公式や定理の入力補完）  
+  - <span style="color:#f99;font-weight:bold;">数や型の種類に紐づいて、公式がきれいに整理</span>（公式や定理の入力補完）  
     <img src="https://www.designed.academy/tutorial/implementation.gif" alt="Demo : Implementation" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - 数や型の種類が誤っている場合、編集中にアラート（公式や定理の型チェック）  
     <img src="https://www.designed.academy/tutorial/type_check.gif" alt="Demo : Type Check" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
@@ -74,7 +74,7 @@ designEDは、デザインされた(designed)教育(ED)で、学びをアップ�
   - レンダリング自動化
   - デバッグモード
   - エラー表示
-  - プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明  
+  - <span style="color:#f99;font-weight:bold;">プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明</span>  
     - 各ステップをAIに指示したり  
     - １題丸ごと解いちゃったり(京都大学類題)  
         <img src="https://www.designed.academy/tutorial/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
@@ -96,7 +96,7 @@ designEDは、デザインされた(designed)教育(ED)で、学びをアップ�
 |VScodeのインストール|プログラミングコード専用のエディタ（wordやメモ帳みたいなもの）をインストールする|[外部リンク](https://app.path.progate.com/articles/install-vscode)|
 |gitとGitHubのインストール|書いたコードのバージョン管理ツール(git)とそのバージョンの保存先のwebサービス(GitHub)|[windows](https://prog-8.com/docs/git-env-win)<br>[Mac](https://prog-8.com/docs/git-env)|
 |GitHub Copilotの申請|プログラミングに特化したchatGPTのようなもの|[申請手順](https://blog.keisatoh.net/posts/2023-04-10-started-using-github-copilot-with-a-student-discount/)|
-|VScode 拡張機能のインストール|VScodeの便利機能をそれぞれインストールする||
+|VScode 拡張機能のインストール|エディタに便利な追加機能をそれぞれインストールする||
 
 <br>
 
