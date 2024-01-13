@@ -11,6 +11,8 @@
   - [どうやって実現するの？](#どうやって実現するの)
   - [すぐに試せるデモ環境](#すぐに試せるデモ環境)
   - [フル機能使う手順（初歩から）](#フル機能使う手順初歩から)
+    - [インストール手順](#インストール手順)
+    - [VScode拡張機能リスト](#vscode拡張機能リスト)
   - [モジュールインストール方法](#モジュールインストール方法)
   - [機能(随時追加中)](#機能随時追加中)
   - [外部リンク](#外部リンク)
@@ -90,13 +92,26 @@ designEDは、デザインされた(designed)教育(ED)で、学びをアップ�
 
 
 ## フル機能使う手順（初歩から）  
+### インストール手順
 |各インストール|説明|手順|
 |:-|:-|:-|
 |python実行環境のインストール|designEDを動かすためのプログラミング言語をインストールする|[windows](https://prog-8.com/docs/python-env-win)<br>[Mac](https://prog-8.com/docs/python-env)|
 |VScodeのインストール|プログラミングコード専用のエディタ（wordやメモ帳みたいなもの）をインストールする|[外部リンク](https://app.path.progate.com/articles/install-vscode)|
 |gitとGitHubのインストール|書いたコードのバージョン管理ツール(git)とそのバージョンの保存先のwebサービス(GitHub)|[windows](https://prog-8.com/docs/git-env-win)<br>[Mac](https://prog-8.com/docs/git-env)|
 |GitHub Copilotの申請|プログラミングに特化したchatGPTのようなもの|[申請手順](https://blog.keisatoh.net/posts/2023-04-10-started-using-github-copilot-with-a-student-discount/)|
-|VScode 拡張機能のインストール|エディタに便利な追加機能をそれぞれインストールする||
+|VScode 拡張機能のインストール|エディタに便利な追加機能をそれぞれインストールする|下記「VScode拡張機能リスト」表参照|
+
+### VScode拡張機能リスト
+|拡張機能|説明|
+|:-|:-|
+|[Japanese Language Pack for VS Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja)|VScodeのボタンなどを日本語化する|
+|[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)|pythonを書きやすくする|
+|[Python Type Hint](https://marketplace.visualstudio.com/items?itemName=njqdev.vscode-python-typehint)|型チェックをする|
+|[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)|型チェックをする|
+|[Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)|ノートブック形式(テキストとコードが一体化した形式)を使えるようにする|
+|[Jupyter Cell Tags support in VS Code](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)|Jupyterをもっと便利にする|
+|[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)|英単語のミススペルを教えてくれる|
+
 
 <br>
 
@@ -127,7 +142,7 @@ pip install --upgrade designed
 ## 外部リンク  
 |リンク|コンテンツ|学校での喩え|
 |:-|:-|:-|  
-|[APIドキュメント]()|designEDモジュールの説明書|数学公式集|  
+|APIドキュメント(準備中)|designEDモジュールの説明書|数学公式集|  
 |[designED](https://github.com/chisakiShinichirouToshiyuki/designed.git)|モジュールのクローン元|  
 |[デモ](https://colab.research.google.com/github/chisakiShinichirouToshiyuki/designed/blob/main/tutorial_jp_on_colab.ipynb)|面倒な環境構築不要のデモリンク先||  
 <br>
@@ -167,6 +182,8 @@ pip install --upgrade designed
   - [どうやって実現するの？](#どうやって実現するの)
   - [すぐに試せるデモ環境](#すぐに試せるデモ環境)
   - [フル機能使う手順（初歩から）](#フル機能使う手順初歩から)
+    - [インストール手順](#インストール手順)
+    - [VScode拡張機能リスト](#vscode拡張機能リスト)
   - [モジュールインストール方法](#モジュールインストール方法)
   - [機能(随時追加中)](#機能随時追加中)
   - [外部リンク](#外部リンク)
