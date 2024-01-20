@@ -79,7 +79,7 @@ designEDは、デザインされた(designed)教育(ED)で、学びをアップ�
   - <span style="color:#f99;font-weight:bold;">プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明</span>  
     - 各ステップをAIに指示したり  
     - １題丸ごと解いちゃったり(京都大学類題)  
-        <img src="https://www.designed.academy/tutorial/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+        <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - 間違えたら証明と、正しい証明の差分を、chatGPTがフローチャートでわかりやすく見える化（AIによるコード図表変換）
 - プログラマー用SNSで学習進捗を管理/共有  
 <br>
