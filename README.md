@@ -63,23 +63,23 @@ designEDは、デザインされた(designed)教育(ED)で、学びをアップ�
 
 ## どうやって実現するの？
 - <span style="color:#f99;font-weight:bold;">受験問題を、日本語プログラミングで解きます</span>！(面倒な微分・積分計算も自動でやってくれます)  
-  <img src="https://www.designed.academy/tutorial/proof.gif" alt="Demo : Proof by python" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+  <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/proof.gif" alt="Demo : Proof by python" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
 - プログラミングの便利ツールで、証明作成をサポートします。  
   - よく使う定理や有名問題に名前をつけて、簡単呼び出し（ユーザスニペット）  
-    <img src="https://www.designed.academy/tutorial/user_snippet.gif" alt="Demo : User Snippet" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/user_snippet.gif" alt="Demo : User Snippet" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - <span style="color:#f99;font-weight:bold;">数や型の種類に紐づいて、公式がきれいに整理</span>（公式や定理の入力補完）  
-    <img src="https://www.designed.academy/tutorial/implementation.gif" alt="Demo : Implementation" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/implementation.gif" alt="Demo : Implementation" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - 数や型の種類が誤っている場合、編集中にアラート（公式や定理の型チェック）  
-    <img src="https://www.designed.academy/tutorial/type_check.gif" alt="Demo : Type Check" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/type_check.gif" alt="Demo : Type Check" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
   - 公式や定理の説明を簡単に確認  
-    <img src="https://www.designed.academy/tutorial/docstring.gif" alt="Demo :Docstring" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/docstring.gif" alt="Demo :Docstring" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
   - レンダリング自動化
   - デバッグモード
   - エラー表示
   - <span style="color:#f99;font-weight:bold;">プログラミング特化版のchatGPT:github copilotでAIの助けを借りながら、ストレスなく証明</span>  
     - 各ステップをAIに指示したり  
     - １題丸ごと解いちゃったり(京都大学類題)  
-        <img src="https://www.designed.academy/tutorial/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+        <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - 間違えたら証明と、正しい証明の差分を、chatGPTがフローチャートでわかりやすく見える化（AIによるコード図表変換）
 - プログラマー用SNSで学習進捗を管理/共有  
 <br>
@@ -232,23 +232,23 @@ This app provides the equivalent of a reference book (College Entrance Exams - M
 
 ## What is it for?
 - Solve exam problems with Japanese programming! (Automatically handles tedious differentiation and integration calculations)  
-  <img src="https://www.designed.academy/tutorial/proof.gif" alt="Demo : Proof by python" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+  <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/proof.gif" alt="Demo : Proof by python" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
 - Supports proof creation with programming tools.  
   - Name frequently used theorems and famous problems for easy recall (User Snippets)  
-    <img src="https://www.designed.academy/tutorial/user_snippet.gif" alt="Demo : User Snippet" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/user_snippet.gif" alt="Demo : User Snippet" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - Formulas are neatly organized according to numbers and types (Input completion for formulas and theorems)  
-    <img src="https://www.designed.academy/tutorial/implementation.gif" alt="Demo : Implementation" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/implementation.gif" alt="Demo : Implementation" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - If numbers or types are incorrect, you will be alerted while editing (Type check for formulas and theorems)  
-    <img src="https://www.designed.academy/tutorial/type_check.gif" alt="Demo : Type Check" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/type_check.gif" alt="Demo : Type Check" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
   - Easily check the explanations of formulas and theorems  
-    <img src="https://www.designed.academy/tutorial/docstring.gif" alt="Demo :Docstring" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
+    <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/docstring.gif" alt="Demo :Docstring" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >  
   - Automated rendering  
   - Debug mode  
   - Error display  
   - Stress-free proof with the help of AI via a programming-specialized version of chatGPT: github copilot  
     - Directing AI for each step  
     - Solve an entire problem in one go (Kyoto University similar problems)  
-        <img src="https://www.designed.academy/tutorial/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
+        <img src="https://github.com/chisakiShinichirouToshiyuki/designed/blob/main/asset/copilot.gif" alt="Demo : Proof by copilot" style="border:.5px solid white;margin:8px;max-width:70%;max-height:70%;" >
   - chatGPT makes the differences between the mistaken proof and the correct one easy to understand with a flowchart (Code diagram conversion by AI)  
 - Manage/Share learning progress on a programmer's SNS  
 <br>
