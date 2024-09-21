@@ -1,9 +1,9 @@
 ---
-name: work_shop
-about: ワークショップ管理
-title: ワークショップ
+name: work_shop_pre
+about: ワークショップ管理_事前インストール
+title: ワークショップ事前準備
 labels: ''
-assignees: ''
+assignees: chisakiShinichirouToshiyuki
 
 ---
 
