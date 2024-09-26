@@ -1,0 +1,15 @@
+{
+    "recommendations": [
+        "ms-python.black-formatter",
+        "streetsidesoftware.code-spell-checker",
+        "GitHub.copilot-chat",
+        "oderwat.indent-rainbow",
+        "MS-CEINTL.vscode-language-pack-ja",
+        "ms-toolsai.jupyter",
+        "yzhang.markdown-all-in-one",
+        "ms-python.mypy-type-checker",
+        "donjayamanne.python-extension-pack",
+        "mosapride.zenkaku",
+        "GitHub.copilot"
+    ]
+}
