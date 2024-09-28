@@ -10,6 +10,12 @@
         "ms-python.mypy-type-checker",
         "donjayamanne.python-extension-pack",
         "mosapride.zenkaku",
+        "ms-python.mypy-type-checker",
+        "jebbs.plantuml",
+        "well-ar.plantuml",
+        "clysto.plantuml",
+        "qhoekman.language-plantuml",
+        "ms-vscode.vscode-speech",
         "GitHub.copilot"
     ]
 }
