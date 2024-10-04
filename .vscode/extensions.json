@@ -16,6 +16,7 @@
         "clysto.plantuml",
         "qhoekman.language-plantuml",
         "ms-vscode.vscode-speech",
+        "DavidAnson.vscode-markdownlint",
         "ginfuru.ginfuru-better-solarized-dark-theme",
         "GitHub.copilot"
     ]
