@@ -1,5 +1,6 @@
-# designED
+# designED [![PyPI Downloads](https://static.pepy.tech/badge/designed)](https://pepy.tech/projects/designed)
 (English version is [here](#designed_en))
+
 
 ## 目次
 - [designED](#designed)
